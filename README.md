@@ -1,3 +1,5 @@
+Forked from official tutorial and rewrite to use the alpine base image
+
 # Try Out Development Containers: Python
 
 This is a sample project that lets you try out the **[VS Code Remote - Containers](https://aka.ms/vscode-remote/containers)** extension in a few easy steps.
